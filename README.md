@@ -3,8 +3,7 @@ This repository contains the shell, Perl, and R scripts used in the article “*
 
 # Directory structure
 1. step1.sv_calling.sh:
-     This shell file records the commands for SV detection on 10 datasets using 40 tools.
-1. step1.sv_calling.sh: shell script for the detection of structural variants (SVs).
-2. step2.sv_eval.sh: shell script for evalutaion of SVs against a benchmark to assess performance.
-3. step3.sv_integration.sh: shell script for integrating SV sets from DNBSEQ or Illumina datasets.
-4. step4.figures: the Perl and R scripts used to generate Figure2 to Figure5.
+<p style="text-indent: 2em;">shell script for the detection of structural variants (SVs).</p>
+3. step2.sv_eval.sh: shell script for evalutaion of SVs against a benchmark to assess performance.
+4. step3.sv_integration.sh: shell script for integrating SV sets from DNBSEQ or Illumina datasets.
+5. step4.figures: the Perl and R scripts used to generate Figure2 to Figure5.
